@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "production": "vacation-planner-412f9",
+    "default": "vacation-planner-dev"
+  }
+}
